@@ -23,7 +23,16 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
 
 ### Estadísticas de Github
 
-[! [Estadísticas de GitHub de Ponce De León Kevin B.] (https://github-readme-stats.vercel.app/api?username=keviinponcee&show_icons=true&count_private=true)] (https://github.com/keviinponcee)
+![Kevin B. Ponce de León github stats](https://github-readme-stats.vercel.app/api?username=keviinponcee&hide=contribs,prs&count_private=true&show_icons=true)
+
+<h3> 🤝🏻 Conéctate conmigo </h3>
+
+<p align = "center">
+<!--<a href="#" target="_blank"> <img alt = "Sitio web" src = "https://img.shields.io/badge/Website-www.anandmainali .com.np-blue? style = flat & logo = google-chrome ">En Desarrollo</a>-->
+<a href="https://www.linkedin.com/in/keviin-poncee/" target="_blank"> <img alt = "LinkedIn" src = "https://img.shields.io/badge/LinkedIn-@KeviinPoncee-blue? style = flat & logo = linkedin "></a>
+<a href="kevin.poncedeleon@hotmail.com"> <img alt = "Correo electrónico" src = "https://img.shields.io/badge/Email-kevin.poncedeleon@hotmail.com-blue?style=flat&logo= gmail "></a>
+</p>
+
 <!--
 **KeviinPoncee/KeviinPoncee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
