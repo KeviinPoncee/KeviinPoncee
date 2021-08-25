@@ -33,7 +33,7 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
  
 <p align = "center">
 <!--<a href="#" target="_blank"> <img alt = "Sitio web" src = "https://img.shields.io/badge/Website-www.anandmainali .com.np-blue? style = flat & logo = google-chrome ">En Desarrollo</a>-->
-<a href="https://www.linkedin.com/in/keviin-poncee/" target="_blank"> <img alt = "LinkedIn" src = "https://img.shields.io/badge/LinkedIn-@KeviinPoncee-blue? style = flat & logo = linkedin "></a>
+<a href="https://www.linkedin.com/in/keviin-poncee/" target="_blank"> <img alt = "LinkedIn" src = "https://img.shields.io/badge/LinkedIn-@KeviinPoncee-blue?style=flat&logo=linkedin"></a>
 <a href="kevin.poncedeleon@hotmail.com"> <img alt = "Correo electrónico" src = "https://img.shields.io/badge/Email-kevin.poncedeleon@hotmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
