@@ -34,8 +34,10 @@ Tengo excelentes habilidades de diseño y codificación, así como la capacidad 
 <p align = "center">
 <!--<a href="#" target="_blank"> <img alt = "Sitio web" src = "https://img.shields.io/badge/Website-www.anandmainali .com.np-blue? style = flat & logo = google-chrome ">En Desarrollo</a>-->
 <a href="https://www.linkedin.com/in/keviin-poncee/" target="_blank"> <img alt = "LinkedIn" src = "https://img.shields.io/badge/LinkedIn-@KeviinPoncee-blue?style=flat&logo=linkedin"></a>
-<a href="kevin.poncedeleon@hotmail.com"> <img alt = "Correo electrónico" src = "https://img.shields.io/badge/Email-kevin.poncedeleon@hotmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:rafa@gmail.com?Subject=Interesado%20en%20el%20curso"> <img alt = "Correo electrónico" src = "https://img.shields.io/badge/Email-kevin.poncedeleon@hotmail.com-blue?style=flat&logo=gmail"></a>
 </p>
+
+<a href="mailto:rafa@gmail.com?Subject=Interesado%20en%20el%20curso">Contactar por correo</a>
 
 <!--
 **KeviinPoncee/KeviinPoncee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
